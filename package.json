@@ -1,7 +1,7 @@
 {
-  "name": "open-graph-scraper",
-  "description": "Node.js scraper module for Open Graph and Twitter Card info",
-  "version": "4.11.0",
+  "name": "open-graph-scraper-bypasshtmlcheck",
+  "description": "A fork of open-graph-scraper: Node.js scraper module for Open Graph and Twitter Card info",
+  "version": "4.11.0-1",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,9 @@
     "node": ">=12.x.x"
   },
   "author": {
-    "name": "Josh Shemas",
-    "email": "jjs90jjs@gmail.com",
-    "url": "https://github.com/jshemas"
+    "name": "Shane Tindle",
+    "email": "sha.tindle@gmail.com",
+    "url": "https://github.com/shatindle"
   },
   "dependencies": {
     "chardet": "^1.4.0",
@@ -47,8 +47,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/jshemas/openGraphScraper.git",
-    "web": "http://github.com/jshemas/openGraphScraper"
+    "url": "https://github.com/shatindle/openGraphScraper.git",
+    "web": "https://github.com/shatindle/openGraphScraper"
   },
   "keywords": [
     "app links",
